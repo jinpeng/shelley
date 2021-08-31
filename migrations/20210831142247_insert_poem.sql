@@ -1,0 +1,2 @@
+-- Add migration script here
+INSERT INTO poem (id, author, title, type, dynasty, paragraphs) VALUES ( "40c8703f-1999-4cb0-b593-154504bb2f91", "章甫", "郡圃殘雪  其三", 5, 9, "城外城中雪半開，遠峯依舊玉崔嵬。池冰綻處纔如線，便有鴛鴦浮過來。");
